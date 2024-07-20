@@ -1,4 +1,4 @@
-package com.daniel;
+package com.daniel.shared;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
